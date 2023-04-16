@@ -20,5 +20,8 @@
 		"typescript": "^5.0.4",
 		"vite": "^4.2.1"
 	},
-	"type": "module"
+	"type": "module",
+	"engines": {
+		"node": ">=18.0.0"
+	}
 }
